@@ -1,6 +1,8 @@
 # Image Classification Hackathon: Identifying Icon Types in Datasets
 ## Description
-Participated in an image classification competition where the task was to classify different types of icons in a dataset using machine learning and computer vision techniques. The challenge involved working with a variety of icon types and required the use of advanced deep learning techniques to achieve high classification accuracy.
+Participated in an image classification competition hosted by Dacon, where the task was to classify different types of icons in a dataset using machine learning and computer vision techniques. The challenge involved working with a variety of icon types and required the use of advanced deep learning techniques to achieve high classification accuracy. The competition aimed to develop AI algorithms for automatic icon classification, which can innovate various fields such as image search enhancement, UI design improvement, and digital document auto-tagging.
+
+Competition Details: Dacon Image Classification Hackathon
 
 Technologies Used
 Python
