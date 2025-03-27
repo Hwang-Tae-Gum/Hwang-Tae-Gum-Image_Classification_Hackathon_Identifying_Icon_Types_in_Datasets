@@ -48,6 +48,29 @@ Batch Size: 16
 
 Early Stopping: Triggered after achieving the highest validation accuracy
 
+## Dataset Information
+The dataset used for this competition consists of:
+
+Training Data (train.csv):
+
+ID: Unique identifier for each sample.
+
+Label: Type of icon (airplane, apple, ball, bird, building, cat, emotion_face, police_car, rabbit, truck).
+
+Pixel Values: 1D array of pixel values for each 32x32 grayscale image (columns 0 to 1023).
+
+Test Data (test.csv):
+
+ID: Unique identifier for each sample.
+
+Pixel Values: 1D array of pixel values for each 32x32 grayscale image (columns 0 to 1023).
+
+Submission Format (sample_submission.csv):
+
+ID: Unique identifier for each sample.
+
+Label: Predicted type of icon.
+
 ## Note: The model showed excellent performance during training but exhibited signs of overfitting, as evidenced by the high training accuracy (100%) compared to the validation accuracy (92.86%).
 
 ## Improvements & Future Updates
