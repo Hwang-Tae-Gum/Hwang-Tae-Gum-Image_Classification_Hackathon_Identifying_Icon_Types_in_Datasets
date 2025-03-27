@@ -1,7 +1,7 @@
 #Competitions and Hackathons
 ## Image Classification Hackathon: Identifying Icon Types in Datasets
 
-- Description:
+Description:
 Participated in an image classification competition where the task was to classify different types of icons in a dataset using machine learning and computer vision techniques. The challenge involved working with a variety of icon types and required the use of advanced deep learning techniques to achieve high classification accuracy.
 
 ## Technologies Used:
