@@ -1,4 +1,4 @@
-#Competitions and Hackathons
+# Competitions and Hackathons
 ## Image Classification Hackathon: Identifying Icon Types in Datasets
 
 Description:
